@@ -1,0 +1,12 @@
+br\com\senai\deliveryavaliacao\model\Produto.class
+br\com\senai\deliveryavaliacao\dto\RestauranteRequest.class
+br\com\senai\deliveryavaliacao\dto\ProdutoRequest.class
+br\com\senai\deliveryavaliacao\DeliveryavaliacaoApplication.class
+br\com\senai\deliveryavaliacao\exception\ValidacaoExceptionHandler.class
+br\com\senai\deliveryavaliacao\repository\RestauranteRepository.class
+br\com\senai\deliveryavaliacao\repository\ProdutoRepository.class
+br\com\senai\deliveryavaliacao\controller\ProdutoController.class
+br\com\senai\deliveryavaliacao\service\RestauranteService.class
+br\com\senai\deliveryavaliacao\controller\RestauranteController.class
+br\com\senai\deliveryavaliacao\service\ProdutoService.class
+br\com\senai\deliveryavaliacao\model\Restaurante.class
